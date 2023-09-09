@@ -1,4 +1,4 @@
-It is highly recommended to use the **_Github Desktop App_**, it will everything easier
+It is highly recommended to use the [**_Github Desktop App_**](https://desktop.github.com/), it will make everything easier
 
 [Forking](#forking) <br>
 [Cloning](#cloning)
